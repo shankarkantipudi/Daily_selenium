@@ -12,7 +12,6 @@ public class Methodsused {
         driver.navigate().to(Url);
         driver.navigate().back();
         driver.navigate().forward();
-        driver.navigate().refresh();
         driver.close();
 
     }
