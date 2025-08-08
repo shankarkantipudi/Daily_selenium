@@ -10,10 +10,8 @@ public class Methodsused {
     public static void browserLaunch() {
         WebDriver driver = new ChromeDriver();
         driver.navigate().to(Url);
-        driver.navigate().back();
-        driver.navigate().forward();
-        driver.navigate().refresh();
-        driver.close();
+        
+
 
     }
 }
