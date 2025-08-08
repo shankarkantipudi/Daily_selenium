@@ -12,5 +12,6 @@ public class Methodsused {
         driver.navigate().to(Url);
 
 
+
     }
 }
